@@ -5,7 +5,7 @@ excerpt: timeline
 sections:
   - title: POSTS
     section_id: posts
-    posts_number: 0
+    posts_number: 10
     actions: []
     type: section_posts
 seo:
