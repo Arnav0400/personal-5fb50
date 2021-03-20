@@ -34,7 +34,7 @@ params:
         icon_class: twitter
         new_window: true
       - label: G
-        url: 'https://www.instagram.com/'
+        url: 'https://scholar.google.com/citations?user=s4rghcgAAAAJ&hl=en'
         style: button
         icon_class: dev
         new_window: true
