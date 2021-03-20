@@ -11,7 +11,7 @@ sections:
       characteristics**
 
       J. Jothi Balaji, **Arnav Chavan**, Gowreesh Mago, Vasudevan
-      Lakshminarayanan  
+      Lakshminarayanan\
 
       *Ophthalmic Technologies XXXI*
 
@@ -20,7 +20,7 @@ sections:
       characteristics and ametropia?**
 
       **Arnav Chavan**, Gowreesh Mago, J. Jothi Balaji, Vasudevan
-      Lakshminarayanan
+      Lakshminarayanan  
 
       *Ophthalmic Technologies XXXI*
 
@@ -28,7 +28,8 @@ sections:
       \[4.] **Deep learning for detection and segmentation of artefact and
       disease instances in gastrointestinal endoscopy**
 
-      Sharib Ali, Mariia Dmitrieva, Noha Ghatwary, ..., **Arnav Chavan** *Et al*
+      Sharib Ali, Mariia Dmitrieva, Noha Ghatwary, ..., **Arnav Chavan** *Et al 
+      *
 
       *Medical Image Analysis*
 
@@ -41,7 +42,7 @@ sections:
       \[2.] **ChipNet: Budget-Aware Pruning with Heaviside Continuous
       Approximations**
 
-      Rishabh Tiwari\*, Udbhav Bamba\*, **Arnav Chavan\***, Deepak Gupta\*
+      Rishabh Tiwari\*, Udbhav Bamba\*, **Arnav Chavan\***, Deepak Gupta\*  
 
       *(To Appear) International Conference on Learning Representations (ICLR)
       2021*
@@ -50,7 +51,7 @@ sections:
       \[1.] **Multi-Plateau Ensemble for Endoscopic Artefact Segmentation and
       Detection**
 
-      Suyog Jadhav, Udbhav Bamba, **Arnav Chavan**, Rishabh Tiwari, Aryan Raj
+      Suyog Jadhav, Udbhav Bamba, **Arnav Chavan**, Rishabh Tiwari, Aryan Raj  
 
       *EndoCV Workshop, International Symposium on Biomedical Imaging (ISBI)
       2020*
