@@ -3,7 +3,7 @@ title: publications
 hide_title: true
 excerpt: list of publications
 sections:
-  - title: lorem-ipsum
+  - title: PUBLICATIONS
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
