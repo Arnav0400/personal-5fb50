@@ -4,7 +4,7 @@ hide_title: true
 excerpt: timeline
 sections:
   - title: POSTS
-    section_id: lorem-ipsum
+    section_id: posts
     posts_number: 0
     actions: []
     type: section_posts
