@@ -10,11 +10,7 @@ sections:
   - section_id: about
     type: section_content
     title: About
-    content: >-
-      This is the "about" excerpt. It can be used to provide a paragraph about
-      yourself that people can read on the homepage to get a sense of who you
-      are. There also exists a dedicated about page where you can write more
-      about yourself for those who are interested.
+    content: "I am an Integrated Masters Student in Mathematics And Computing at Indian Institute Of Technology\_[IIT-ISM](https://www.iitism.ac.in/), Dhanbad, India. The objective of my research is to make machine learning much more efficient by building efficient systems. To that end, I develop novel, highly competent machine learning models, derive efficient inference algorithms and apply these to different tasks. I consider several application domains: meta-learning, bio-medical imaging, and general vision tasks.\n\nI love to participate in Kaggle competitions and explore the rapid development of deep learning in other fields in my free time. Recently, I became a\_[**Kaggle Competitions Master**](https://www.kaggle.com/carnav0400). When I’m not involved in any coding related stuff, I love to play games and browse through development in other tech-fields.\n"
     actions:
       - label: Contact Me
         url: /contact
