@@ -17,8 +17,7 @@ params:
       - label: PUBLICATIONS
         url: /blog/
         style: link
-      - label: Style Guide
-        url: /style-guide/
+      - url: /style-guide/
         style: link
       - label: About
         url: /about/
