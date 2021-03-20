@@ -21,7 +21,7 @@ params:
         url: /publications
         style: link
       - label: Contact
-        url: /contact/
+        url: /contact
         style: link
     has_social: true
     social_links:
