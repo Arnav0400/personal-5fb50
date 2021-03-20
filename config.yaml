@@ -35,7 +35,7 @@ params:
         new_window: true
       - label: G
         url: 'https://www.instagram.com/'
-        style: link
+        style: button
         icon_class: dev
         new_window: true
       - label: GitHub
