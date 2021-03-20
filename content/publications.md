@@ -9,7 +9,7 @@ sections:
     content: >
       \[6.] **A new method for quantification of retinal blood vessel
       characteristics**J. Jothi Balaji, **Arnav Chavan**, Gowreesh Mago,
-      Vasudevan Lakshminarayanan   *Ophthalmic Technologies XXXI*
+      Vasudevan Lakshminarayanan \<br/> *Ophthalmic Technologies XXXI*
 
 
       \[5.] **Is there a relationship between retinal blood vessel
