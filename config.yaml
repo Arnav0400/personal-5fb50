@@ -19,6 +19,7 @@ params:
         style: link
       - url: /style-guide/
         style: link
+        label: TIMELINE
       - label: About
         url: /about/
         style: link
