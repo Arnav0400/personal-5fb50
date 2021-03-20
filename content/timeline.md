@@ -1,7 +1,7 @@
 ---
 title: timeline
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: timeline
 sections: []
 seo:
   title: ''
