@@ -3,7 +3,7 @@ title: timeline
 hide_title: true
 excerpt: timeline
 sections:
-  - title: lorem-ipsum
+  - title: P
     section_id: lorem-ipsum
     posts_number: 0
     actions: []
