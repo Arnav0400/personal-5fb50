@@ -33,7 +33,7 @@ params:
         style: icon
         icon_class: twitter
         new_window: true
-      - label: Google
+      - label: G
         url: 'https://www.instagram.com/'
         style: link
         icon_class: dev
