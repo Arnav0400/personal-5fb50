@@ -34,8 +34,8 @@ sections:
       *Medical Image Analysis*
 
 
-      \[3.] \*Rescaling CNN through Learnable Repetition of Network
-      Parameters\*\*
+      \[3.] **Rescaling CNN through Learnable Repetition of Network
+      Parameters**  
 
       **Arnav Chavan\***, Udbhav Bamba\*, Rishabh Tiwari\*, Deepak Gupta\*
 
