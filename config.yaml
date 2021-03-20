@@ -20,7 +20,7 @@ params:
       - label: PUBLICATIONS
         url: /publications
         style: link
-      - url: /style-guide/
+      - url: /time-line/
         style: link
         label: TIMELINE
       - label: Contact
