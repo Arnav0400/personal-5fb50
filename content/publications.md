@@ -7,8 +7,8 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      \[6.] **A new method for quantification of retinal blood vessel
-      characteristics  \ **J. Jothi Balaji, **Arnav Chavan***Ophthalmic
+      \[6.] \*\*A new method for quantification of retinal blood vessel
+      characteristics\*\*  \ J. Jothi Balaji, **Arnav Chavan***Ophthalmic
       Technologies XXXI*
 
 
