@@ -14,12 +14,12 @@ params:
       - label: Home
         url: /
         style: link
-      - label: PUBLICATIONS
-        url: /publications
-        style: link
       - url: /time-line
         style: link
         label: TIMELINE
+      - label: PUBLICATIONS
+        url: /publications
+        style: link
       - label: Contact
         url: /contact/
         style: link
