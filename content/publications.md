@@ -1,7 +1,7 @@
 ---
 title: publications
 hide_title: true
-excerpt: lorem-ipsum
+excerpt: list of publications
 sections: []
 seo:
   title: ''
