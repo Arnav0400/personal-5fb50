@@ -4,7 +4,7 @@ hide_title: true
 excerpt: timeline
 sections:
   - title: TIMELINE
-    section_id: lorem-ipsum
+    section_id: timeline
     image_alt: lorem-ipsum
     content: >-
       ## Lorem ipsum
