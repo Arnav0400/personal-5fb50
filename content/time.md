@@ -11,12 +11,15 @@ sections:
 
 
       *   Started an internship at Udaan, as a data scientist, working with
-      their catalogue team.
+      their catalogue team.  
 
 
       *   Paper, “Deep learning for detection and segmentation of artefact and
       disease instances in gastrointestinal endoscopy” accepted at Medical Image
       Analysis Journal.
+
+
+      <!---->
 
 
       *   Secured 6th place among 733 participants in Wind-dependent Variables:
