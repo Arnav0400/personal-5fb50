@@ -17,10 +17,6 @@ sections:
       disease instances in gastrointestinal endoscopy” accepted at Medical Image
       Analysis Journal.
 
-
-      <!---->
-
-
       *   Secured 6th place among 733 participants in Wind-dependent Variables:
       Predict Wind Speeds of Tropical Storms
 
