@@ -96,7 +96,7 @@ sections:
       #### NOVEMBER, 2019
 
 
-      *   Became Kaggle Competitions Expert
+      *   Became Kaggle Competitions Expert.
 
 
       *   Secured 8th place (Gold) in Severstal: Steel Defect Detection among
