@@ -7,18 +7,18 @@ sections:
     section_id: timeline
     image_alt: lorem-ipsum
     content: >
-      #### February, 2021
+      #### FEBRUARY, 2021
 
 
-      *   Started internship at Udaan, as a data scientist , working with their
-      catalogue team.
+      *   Started an internship at Udaan, as a data scientist, working with
+      their catalogue team.
 
 
       *   Secured 6th place among 733 participants in Wind-dependent Variables:
-      Predict Wind Speeds of Tropical Storms \[Solution] \[leaderboad]
+      Predict Wind Speeds of Tropical Storms.
 
 
-      #### January, 2021
+      #### JANUARY, 2021
 
 
       *   Paper, “ChipNet: Budget-Aware Pruning with Heaviside Continuous
