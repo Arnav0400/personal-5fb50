@@ -76,7 +76,7 @@ sections:
 
 
       2.  Secured 8th place (Gold) in Severstal: Steel Defect Detection among
-      2,431 teams \[Solution writeup].
+      2,431 teams.
 
 
       3.  Secured 82nd place (Bronze) in Understanding Clouds from Satellite
