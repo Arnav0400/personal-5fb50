@@ -17,10 +17,7 @@ sections:
       <!---->
 
 
-      *   ![](/images/udaan.jpg)
-
-
-      *   Paper, “Deep learning for detection and segmentation of artefact and
+      *    Paper, “Deep learning for detection and segmentation of artefact and
       disease instances in gastrointestinal endoscopy” accepted at Medical Image
       Analysis Journal.
 
