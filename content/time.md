@@ -15,9 +15,6 @@ sections:
       Ophthalmic Technologies XXXI 2021.
 
 
-      <!---->
-
-
       *   Paper, “A New Method for Quantification of Retinal Blood Vessel
       Characteristics” accepted at Proceedings of SPIE, Ophthalmic Technologies
       XXXI 2021.
@@ -26,33 +23,33 @@ sections:
       #### AUGUST, 2020
 
 
-      1.  Started an internship at Bosch Research, as a computer vision
-      specialist, worked on unsupervised defect detection and localization for
-      industrial objects.
+      *   Started internship at Bosch Research, as a computer vision specialist,
+      worked on unsupervised defect detecction and localization for industrial
+      objects.
 
 
       #### JUNE, 2020
 
 
-      1.  Became Kaggle Competitions Master
+      *   Became Kaggle Competitions Master
 
 
-      2.  Secured 57th place (Silver) in Jigsaw Multilingual Toxic Comment
+      *   Secured 57th place (Silver) in Jigsaw Multilingual Toxic Comment
       Classification among 1621 teams.
 
 
-      3.  Secured 58th place (Silver) in Tweet Sentiment Extraction among 2227
+      *   Secured 58th place (Silver) in Tweet Sentiment Extraction among 2227
       teams.
 
 
       #### MARCH, 2020
 
 
-      1.  Secured 1st place in Endoscopy Computer Vision Workshop, International
+      *   Secured 1st place in Endoscopy Computer Vision Workshop, International
       Symposium on Biomedical Imaging (ISBI) 2020 (segmentation Track).
 
 
-      2.  Paper, “Multi-Plateau Ensemble for Endoscopic Artefact Segmentation
+      *   Paper, “Multi-Plateau Ensemble for Endoscopic Artefact Segmentation
       and Detection” accepted at EndoCV Workshop, IEEE International Symposium
       on Biomedical Imaging 2020.
 
@@ -60,37 +57,37 @@ sections:
       #### FEBRUARY, 2020
 
 
-      1.  Organised an in class Kaggle competition, ‘Classify this movie’ for
-      the students of IIT(ISM) Dhanbad. The task was to predict the genre of the
+      *   Organised an inclass Kaggle competition, ‘Classify this movie’ for the
+      students of IIT(ISM) Dhanbad. The task was to predict the genre of the
       movie on the basis of its poster.
 
 
       #### DECEMBER, 2019
 
 
-      1.  Attended Nepal Winter School in AI in Pokhara, Nepal organized by
+      *   Attended Nepal Winter School in AI in Pokhara, Nepal organized by
       NAAMII, Nepal.
 
 
       #### NOVEMBER, 2019
 
 
-      1.  Became Kaggle Competitions Expert
+      *   Became Kaggle Competitions Expert
 
 
-      2.  Secured 8th place (Gold) in Severstal: Steel Defect Detection among
-      2,431 teams.
+      *   Secured 8th place (Gold) in Severstal: Steel Defect Detection among
+      2,431 teams \[Solution writeup].
 
 
-      3.  Secured 82nd place (Bronze) in Understanding Clouds from Satellite
+      *   Secured 82nd place (Bronze) in Understanding Clouds from Satellite
       Images among 1,538 teams.
 
 
       #### OCTOBER, 2019
 
 
-      1.  Started Internship at SpectrumAI. Worked on real-time monitoring of
-      Livestock through multi Object Tracking with Segmentation based two-stage
+      *   Started Internship at SpectrumAI. Worked on real time monitoring of
+      Livestock through multi Object Tracking with Segmentation based two stage
       networks. Further Temporal Connections of masks.
     actions: []
     type: section_content
