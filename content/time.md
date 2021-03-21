@@ -47,9 +47,9 @@ sections:
       #### AUGUST, 2020
 
 
-      *   Started internship at Bosch Research, as a computer vision specialist,
-      worked on unsupervised defect detecction and localization for industrial
-      objects.
+      *   Started an internship at Bosch Research, as a computer vision
+      specialist, worked on unsupervised defect detection and localization for
+      industrial objects.
 
 
       #### JUNE, 2020
