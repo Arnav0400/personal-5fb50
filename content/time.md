@@ -6,17 +6,18 @@ sections:
   - title: TIMELINE
     section_id: timeline
     image_alt: lorem-ipsum
-    content: >-
-      ## Lorem ipsum
+    content: >
+      ### NOVEMBER, 2020
 
 
-      Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
-      eiusmod tempor incididunt ut labore et dolore magna aliqua.
+      1.  Paper, “Is there a relationship between retinal blood vessel
+      characteristics and ametropia?” accepted at Proceedings of SPIE,
+      Ophthalmic Technologies XXXI 2021.
 
 
-      - Lorem ipsum
-
-      - dolor sit amet
+      2.  Paper, “A New Method for Quantification of Retinal Blood Vessel
+      Characteristics” accepted at Proceedings of SPIE, Ophthalmic Technologies
+      XXXI 2021.
     actions: []
     type: section_content
 seo:
