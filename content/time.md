@@ -37,6 +37,15 @@ sections:
       Ophthalmic Technologies XXXI 2021.
 
 
+      *   abc
+
+
+      *   asa
+
+
+      *   as
+
+
       *   Paper, “A New Method for Quantification of Retinal Blood Vessel
       Characteristics” accepted at Proceedings of SPIE, Ophthalmic Technologies
       XXXI 2021.
