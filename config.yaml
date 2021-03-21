@@ -23,7 +23,7 @@ params:
       - label: Contact
         url: /contact
         style: link
-      - label: lorem-ipsum
+      - label: RESUME
         url: '#'
         style: link
         icon_class: dev
