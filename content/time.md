@@ -7,6 +7,25 @@ sections:
     section_id: timeline
     image_alt: lorem-ipsum
     content: >
+      #### February, 2021
+
+
+      *   Started internship at Udaan, as a data scientist , working with their
+      catalogue team.
+
+
+      *   Secured 6th place among 733 participants in Wind-dependent Variables:
+      Predict Wind Speeds of Tropical Storms \[Solution] \[leaderboad]
+
+
+      #### January, 2021
+
+
+      *   Paper, “ChipNet: Budget-Aware Pruning with Heaviside Continuous
+      Approximations” accepted at International Conference on Learning
+      Representations (ICLR) 2021.
+
+
       #### NOVEMBER, 2020
 
 
@@ -76,7 +95,7 @@ sections:
 
 
       *   Secured 8th place (Gold) in Severstal: Steel Defect Detection among
-      2,431 teams \[Solution writeup].
+      2,431 teams.
 
 
       *   Secured 82nd place (Bronze) in Understanding Clouds from Satellite
