@@ -47,15 +47,18 @@ sections:
       #### AUGUST, 2020
 
 
-      *   Started internship at Bosch Research, as a computer vision specialist,
-      worked on unsupervised defect detecction and localization for industrial
-      objects.
+      *   Started an internship at Bosch Research, as a computer vision
+      specialist, worked on unsupervised defect detection and localization for
+      industrial objects.
 
 
       #### JUNE, 2020
 
 
-      *   Became Kaggle Competitions Master
+      *   Became Kaggle Competitions Master.
+
+
+      <!---->
 
 
       *   Secured 57th place (Silver) in Jigsaw Multilingual Toxic Comment
@@ -96,7 +99,7 @@ sections:
       #### NOVEMBER, 2019
 
 
-      *   Became Kaggle Competitions Expert
+      *   Became Kaggle Competitions Expert.
 
 
       *   Secured 8th place (Gold) in Severstal: Steel Defect Detection among
