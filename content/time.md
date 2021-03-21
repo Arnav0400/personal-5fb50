@@ -37,7 +37,9 @@ sections:
       Ophthalmic Technologies XXXI 2021.
 
 
-      *
+      *   Paper, “Is there a relationship between retinal blood vessel
+      characteristics and ametropia?” accepted at Proceedings of SPIE,
+      Ophthalmic Technologies XXXI 2021.
 
 
       *   Paper, “A New Method for Quantification of Retinal Blood Vessel
