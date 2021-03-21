@@ -52,11 +52,14 @@ sections:
       #### JUNE, 2020
 
 
-      *   Became Kaggle Competitions Master
+      *   Became Kaggle Competitions Master.
 
 
       *   Secured 57th place (Silver) in Jigsaw Multilingual Toxic Comment
       Classification among 1621 teams.
+
+
+      <!---->
 
 
       *   Secured 58th place (Silver) in Tweet Sentiment Extraction among 2227
@@ -67,7 +70,7 @@ sections:
 
 
       *   Secured 1st place in Endoscopy Computer Vision Workshop, International
-      Symposium on Biomedical Imaging (ISBI) 2020 (segmentation Track). 
+      Symposium on Biomedical Imaging (ISBI) 2020 (segmentation Track).
 
 
       *   Paper, “Multi-Plateau Ensemble for Endoscopic Artefact Segmentation
