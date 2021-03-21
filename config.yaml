@@ -25,7 +25,7 @@ params:
           https://drive.google.com/file/d/1BVWUroJ0557_V_ayr37n3iKKu_f2LeU_/view?usp=sharing
         style: link
         icon_class: dev
-        new_window: false
+        new_window: true
         no_follow: false
         type: action
       - label: Contact
