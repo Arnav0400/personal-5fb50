@@ -11,7 +11,13 @@ sections:
 
 
       *   Started an internship at Udaan, as a data scientist, working with
-      their catalogue team.![](/images/udaan.jpg)
+      their catalogue team.
+
+
+      <!---->
+
+
+      *   ![](/images/udaan.jpg)
 
 
       *   Paper, “Deep learning for detection and segmentation of artefact and
