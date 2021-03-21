@@ -16,8 +16,8 @@ sections:
         url: /contact
         style: button
 seo:
-  title: Stackbit Fresh Theme
-  description: The preview of the Fresh theme
+  title: Arnav Chavan
+  description: My Portfolio
   extra:
     - name: 'og:type'
       value: website
