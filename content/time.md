@@ -3,7 +3,7 @@ title: timeline
 hide_title: true
 excerpt: timeline
 sections:
-  - title: TITLE
+  - title: TIMELINE
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >-
