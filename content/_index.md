@@ -17,7 +17,7 @@ sections:
         style: button
 seo:
   title: Arnav Chavan
-  description: The preview of the Fresh theme
+  description: My Portfolio
   extra:
     - name: 'og:type'
       value: website
