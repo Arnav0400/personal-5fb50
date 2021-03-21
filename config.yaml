@@ -56,7 +56,7 @@ params:
         type: action
         url: 'https://www.kaggle.com/carnav0400'
       - label: LinkedIn
-        url: 'https://www.linkedin.com/arnav0400'
+        url: 'https://www.linkedin.com/in/arnav0400/'
         style: icon
         icon_class: linkedin
         new_window: true
