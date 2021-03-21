@@ -17,10 +17,6 @@ sections:
       disease instances in gastrointestinal endoscopy” accepted at Medical Image
       Analysis Journal.
 
-
-      <!---->
-
-
       *   Secured 6th place among 733 participants in Wind-dependent Variables:
       Predict Wind Speeds of Tropical Storms
 
@@ -61,9 +57,6 @@ sections:
 
       *   Secured 57th place (Silver) in Jigsaw Multilingual Toxic Comment
       Classification among 1621 teams.
-
-
-      <!---->
 
 
       *   Secured 58th place (Silver) in Tweet Sentiment Extraction among 2227
