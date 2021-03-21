@@ -7,7 +7,7 @@ sections:
     section_id: timeline
     image_alt: lorem-ipsum
     content: >
-      ### NOVEMBER, 2020
+      #### NOVEMBER, 2020
 
 
       1.  Paper, “Is there a relationship between retinal blood vessel
