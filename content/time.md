@@ -7,6 +7,18 @@ sections:
     section_id: timeline
     image_alt: lorem-ipsum
     content: >
+      #### MAY, 2021
+
+
+      *   Started Internship at Amazon's Search Science and AI Team as an
+      Applied Scientist.
+
+
+      *   Paper, "Rescaling CNN through Learnable Repetition of Network
+      Parameters" accepeted at IEEE International Conference on Image Processing
+      (ICIP) 2021.
+
+
       #### MARCH, 2021
 
 
@@ -67,7 +79,6 @@ sections:
       *   Became Kaggle Competitions Master.
 
 
-      <!---->
 
 
       *   Secured 57th place (Silver) in Jigsaw Multilingual Toxic Comment
