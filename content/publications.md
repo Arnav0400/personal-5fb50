@@ -62,8 +62,7 @@ sections:
       Rishabh Tiwari\*, Udbhav Bamba\*, **Arnav Chavan**\*, Deepak Gupta\*
 
 
-      *(To Appear) International Conference on Learning Representations (ICLR)
-      2021*
+      *International Conference on Learning Representations (ICLR) 2021*
 
 
       \[1.] **Multi-Plateau Ensemble for Endoscopic Artefact Segmentation and
