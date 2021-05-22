@@ -7,52 +7,70 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
+      \[7.] **Rescaling CNN through Learnable Repetition of Network Parameters**
+
+
+      **Arnav Chavan**, Udbhav Bamba, Rishabh Tiwari, Deepak Gupta
+
+
+      *IEEE International Conference on Image Processing (ICIP)*
+
+
       \[6.] **A new method for quantification of retinal blood vessel
-      characteristics**\
+      characteristics**
+
 
       J. Jothi Balaji, **Arnav Chavan**, Gowreesh Mago, Vasudevan
-      Lakshminarayanan\
+      Lakshminarayanan
+
 
       *Ophthalmic Technologies XXXI*
 
 
       \[5.] **Is there a relationship between retinal blood vessel
-      characteristics and ametropia?**\
+      characteristics and ametropia?**
+
 
       **Arnav Chavan**, Gowreesh Mago, J. Jothi Balaji, Vasudevan
-      Lakshminarayanan\
+      Lakshminarayanan
+
 
       *Ophthalmic Technologies XXXI*
 
 
       \[4.] **Deep learning for detection and segmentation of artefact and
-      disease instances in gastrointestinal endoscopy**\
+      disease instances in gastrointestinal endoscopy**
 
-      Sharib Ali, Mariia Dmitrieva, Noha Ghatwary, ..., **Arnav Chavan** *Et
-      al*\
+
+      Sharib Ali, Mariia Dmitrieva, Noha Ghatwary, ..., **Arnav Chavan**  *Et
+      al*
+
 
       *Medical Image Analysis*
 
 
-      \[3.] **Rescaling CNN through Learnable Repetition of Network
-      Parameters**  
+      \[3.] **Rescaling CNN through Learnable Repetition of Network Parameters**
 
-      **Arnav Chavan\***, Udbhav Bamba\*, Rishabh Tiwari\*, Deepak Gupta\*
+
+      **Arnav Chavan**\*, Udbhav Bamba\*, Rishabh Tiwari\*, Deepak Gupta\*
 
 
       \[2.] **ChipNet: Budget-Aware Pruning with Heaviside Continuous
-      Approximations**\
+      Approximations**
 
-      Rishabh Tiwari\*, Udbhav Bamba\*, **Arnav Chavan\***, Deepak Gupta\*\
 
-      *(To Appear) International Conference on Learning Representations (ICLR)
-      2021*
+      Rishabh Tiwari\*, Udbhav Bamba\*, **Arnav Chavan**\*, Deepak Gupta\*
+
+
+      *International Conference on Learning Representations (ICLR) 2021*
 
 
       \[1.] **Multi-Plateau Ensemble for Endoscopic Artefact Segmentation and
-      Detection**\
+      Detection**
 
-      Suyog Jadhav, Udbhav Bamba, **Arnav Chavan**, Rishabh Tiwari, Aryan Raj\
+
+      Suyog Jadhav, Udbhav Bamba, **Arnav Chavan**, Rishabh Tiwari, Aryan Raj
+
 
       *EndoCV Workshop, International Symposium on Biomedical Imaging (ISBI)
       2020*
