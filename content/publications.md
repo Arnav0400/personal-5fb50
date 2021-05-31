@@ -7,7 +7,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      \[7.] **Rescaling CNN through Learnable Repetition of Network Parameters**
+      \[6.] **Rescaling CNN through Learnable Repetition of Network Parameters**
 
 
       **Arnav Chavan**, Udbhav Bamba, Rishabh Tiwari, Deepak Gupta
@@ -16,7 +16,7 @@ sections:
       *IEEE International Conference on Image Processing (ICIP)*
 
 
-      \[6.] **A new method for quantification of retinal blood vessel
+      \[5.] **A new method for quantification of retinal blood vessel
       characteristics**
 
 
@@ -27,7 +27,7 @@ sections:
       *Ophthalmic Technologies XXXI*
 
 
-      \[5.] **Is there a relationship between retinal blood vessel
+      \[4.] **Is there a relationship between retinal blood vessel
       characteristics and ametropia?**
 
 
@@ -38,7 +38,7 @@ sections:
       *Ophthalmic Technologies XXXI*
 
 
-      \[4.] **Deep learning for detection and segmentation of artefact and
+      \[3.] **Deep learning for detection and segmentation of artefact and
       disease instances in gastrointestinal endoscopy**
 
 
@@ -47,12 +47,6 @@ sections:
 
 
       *Medical Image Analysis*
-
-
-      \[3.] **Rescaling CNN through Learnable Repetition of Network Parameters**
-
-
-      **Arnav Chavan**\*, Udbhav Bamba\*, Rishabh Tiwari\*, Deepak Gupta\*
 
 
       \[2.] **ChipNet: Budget-Aware Pruning with Heaviside Continuous
