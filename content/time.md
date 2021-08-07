@@ -80,8 +80,7 @@ sections:
       #### MARCH, 2020
 
 
-      *   Secured 1st place in Endoscopy Computer Vision Workshop, International
-      Symposium on Biomedical Imaging (ISBI) 2020 (segmentation Track).
+      *   Secured 1st place in Endoscopy Computer Vision Workshop, International Symposium on Biomedical Imaging (ISBI) 2020 (segmentation Track).
 
       *   Paper, “Multi-Plateau Ensemble for Endoscopic Artefact Segmentation
       and Detection” accepted at EndoCV Workshop, IEEE International Symposium
