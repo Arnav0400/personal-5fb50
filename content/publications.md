@@ -14,7 +14,7 @@ sections:
       *IEEE International Conference on Image Processing (ICIP)*
 
 
-      \[5.] **A new method for quantification of retinal blood vessel characteristics**  
+      \[5.] [**A new method for quantification of retinal blood vessel characteristics**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11623/1162320/A-new-method-for-quantification-of-retinal-blood-vessel-characteristics/10.1117/12.2576984.short)  
 
       J. Jothi Balaji, **Arnav Chavan**, Gowreesh Mago, Vasudevan Lakshminarayanan  
 
