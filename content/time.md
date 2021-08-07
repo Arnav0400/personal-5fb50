@@ -12,7 +12,7 @@ sections:
 
       *   Started Internship at [MBZUAI](https://mbzuai.ac.ae/) in Professor [Eric Xing's](http://www.cs.cmu.edu/~epxing/) Lab under [Zhiqiang Shen](http://zhiqiangshen.com/).
 
-      *   National Winner at Amazon ML Challenge-2021, task was to develop a framework for product node classification.
+      *   National Winner at Amazon ML Challenge-2021(https://amazonmlchallenge.splashthat.com/), task was to develop a framework for product node classification.
 
 
       #### MAY, 2021
