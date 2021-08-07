@@ -28,18 +28,6 @@ sections:
       *Ophthalmic Technologies XXXI, SPIE*
 
 
-      \[3.] [**Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy**](https://www.sciencedirect.com/science/article/pii/S1361841521000487)  
-
-      *Medical Image Analysis*
-
-
-      \[2.] [**ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations**](https://arxiv.org/abs/2102.07156)  
-
-      Rishabh Tiwari\*, Udbhav Bamba\*, **Arnav Chavan**\*, Deepak Gupta\*  
-
-      *International Conference on Learning Representations (ICLR) 2021*
-
-
       \[1.] [**Multi-Plateau Ensemble for Endoscopic Artefact Segmentation and Detection**](https://arxiv.org/abs/2003.10129)  
 
       Suyog Jadhav, Udbhav Bamba, **Arnav Chavan**, Rishabh Tiwari, Aryan Raj  
