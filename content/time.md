@@ -40,7 +40,7 @@ sections:
 
       *   Paper, [“Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy”](https://www.sciencedirect.com/science/article/pii/S1361841521000487) accepted at Medical Image Analysis Journal.
 
-      *   Secured 6th place among 733 participants in Wind-dependent Variables : Predict Wind Speeds of Tropical Storms
+      *   Secured 6th place among 733 participants in [Wind-dependent Variables : Predict Wind Speeds of Tropical Storms](https://www.drivendata.org/competitions/72/predict-wind-speeds/leaderboard/)
 
       #### JANUARY, 2021
 
