@@ -10,7 +10,7 @@ sections:
       #### AUGUST, 2021
 
 
-      *   Started Internship at [MBZUAI](https://mbzuai.ac.ae/) in zhiqiang shen's team.
+      *   Started Internship at [MBZUAI](https://mbzuai.ac.ae/) in Professor Erzhiqiang shen's team.
 
       *   National Winner at Amazon ML Challenge-2021, task was to develop a framework for product node classification.
 
