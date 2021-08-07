@@ -28,7 +28,7 @@ sections:
       *Ophthalmic Technologies XXXI, SPIE*
 
 
-      \[3.] **Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy**  
+      \[3.] [**Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy**](https://www.sciencedirect.com/science/article/pii/S1361841521000487)  
 
       *Medical Image Analysis*
 
