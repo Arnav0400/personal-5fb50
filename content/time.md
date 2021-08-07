@@ -10,7 +10,7 @@ sections:
       #### AUGUST, 2021
 
 
-      * Won Amazon ML Challenge-2021.
+      *   Won Amazon ML Challenge-2021.
 
 
       #### MAY, 2021
