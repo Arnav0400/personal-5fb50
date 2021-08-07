@@ -89,8 +89,7 @@ sections:
       #### FEBRUARY, 2020
 
 
-      *   Organised an inclass Kaggle competition, ‘Classify this movie’ for the
-      students of IIT(ISM) Dhanbad. The task was to predict the genre of the
+      *   Organised an inclass Kaggle competition, ‘Classify this movie’ for the students of IIT(ISM) Dhanbad. The task was to predict the genre of the
       movie on the basis of its poster.
 
 
