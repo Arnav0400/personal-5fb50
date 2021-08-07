@@ -10,7 +10,7 @@ sections:
       #### AUGUST, 2021
 
 
-      *   Started Internship at .
+      *   Started Internship at MBZUAI.
 
       *   National Winner at Amazon ML Challenge-2021, task was to develop a framework for product node classification.
 
