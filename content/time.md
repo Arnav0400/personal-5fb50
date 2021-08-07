@@ -68,7 +68,7 @@ sections:
       #### JUNE, 2020
 
 
-      *   Became Kaggle Competitions Master.
+      *   Became [Kaggle Competitions Master](https://www.kaggle.com/carnav0400).
 
       *   Secured 57th place (Silver) in Jigsaw Multilingual Toxic Comment
       Classification among 1621 teams.
