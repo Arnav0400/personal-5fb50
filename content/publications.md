@@ -30,10 +30,6 @@ sections:
 
       \[3.] **Deep learning for detection and segmentation of artefact and
       disease instances in gastrointestinal endoscopy**  
-      
-      Sharib Ali, Mariia Dmitrieva, Noha Ghatwary, ..., **Arnav Chavan**  *Et
-      al*
-
 
       *Medical Image Analysis*
 
