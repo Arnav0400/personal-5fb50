@@ -10,7 +10,7 @@ sections:
       #### AUGUST, 2021
 
 
-      *   National Winner at Amazon ML Challenge-2021, task was to develop a framework for .
+      *   National Winner at Amazon ML Challenge-2021, task was to develop a framework for product category classification.
 
 
       #### MAY, 2021
