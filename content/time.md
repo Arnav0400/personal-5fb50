@@ -29,8 +29,7 @@ sections:
       #### MARCH, 2021
 
 
-      *   Presented and received a special mention in Student Academic Conclave
-      at Inter-IIT Tech Meet 2021 for the paper, "Deep learning for detection
+      *   Presented and received a special mention in Student Academic Conclave at Inter-IIT Tech Meet 2021 for the paper, "Deep learning for detection
       and segmentation of artefact and disease instances in gastrointestinal
       endoscopy".
 
