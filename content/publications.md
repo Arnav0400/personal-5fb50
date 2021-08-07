@@ -10,12 +10,14 @@ sections:
       \[6.] **Rescaling CNN through Learnable Repetition of Network Parameters**  
 
       **Arnav Chavan**, Udbhav Bamba, Rishabh Tiwari, Deepak Gupta  
-      
+
       *IEEE International Conference on Image Processing (ICIP)*  
 
 
       \[5.] **A new method for quantification of retinal blood vessel characteristics**  
+
       J. Jothi Balaji, **Arnav Chavan**, Gowreesh Mago, Vasudevan Lakshminarayanan  
+      
       *Ophthalmic Technologies XXXI, SPIE*  
 
 
