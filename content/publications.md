@@ -40,7 +40,7 @@ sections:
       *International Conference on Learning Representations (ICLR) 2021*
 
 
-      \[1.] **Multi-Plateau Ensemble for Endoscopic Artefact Segmentation and Detection**  
+      \[1.] [**Multi-Plateau Ensemble for Endoscopic Artefact Segmentation and Detection**](https://arxiv.org/abs/2003.10129)  
 
       Suyog Jadhav, Udbhav Bamba, **Arnav Chavan**, Rishabh Tiwari, Aryan Raj  
 
