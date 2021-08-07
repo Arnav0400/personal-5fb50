@@ -7,7 +7,7 @@ sections:
     section_id: timeline
     image_alt: lorem-ipsum
     content: >
-      #### MAY, 2021
+      #### AUGUST, 2021
 
 
       *   Started Internship at Amazon's Search Science and AI Team as an
@@ -17,7 +17,7 @@ sections:
       Parameters" accepeted at IEEE International Conference on Image Processing
       (ICIP) 2021.
 
-      
+
       #### MAY, 2021
 
 
