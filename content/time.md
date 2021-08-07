@@ -21,8 +21,8 @@ sections:
       *   Started Internship at [Amazon's Search Science and AI](https://www.amazon.science/research-areas/search-and-information-retrieval) Team as an
       Applied Scientist.
 
-      *   Paper, "Rescaling CNN through Learnable Repetition of Network
-      Parameters" accepeted at IEEE International Conference on Image Processing
+      *   Paper, ["Rescaling CNN through Learnable Repetition of Network
+      Parameters"](https://arxiv.org/abs/2101.05650) accepeted at IEEE International Conference on Image Processing
       (ICIP) 2021.
 
 
