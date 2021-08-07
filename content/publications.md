@@ -34,10 +34,9 @@ sections:
       *Medical Image Analysis*
 
 
-      \[2.] **ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations**
+      \[2.] **ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations**  
 
-      Rishabh Tiwari\*, Udbhav Bamba\*, **Arnav Chavan**\*, Deepak Gupta\*
-
+      Rishabh Tiwari\*, Udbhav Bamba\*, **Arnav Chavan**\*, Deepak Gupta\*  
 
       *International Conference on Learning Representations (ICLR) 2021*
 
