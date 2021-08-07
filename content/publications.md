@@ -31,7 +31,7 @@ sections:
       *Ophthalmic Technologies XXXI, SPIE*
 
 
-      \[4.] [**Is there a relationship between retinal blood vessel characteristics and ametropia?**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11623/116231Z/Is-there-a-relationship-between-retinal-blood-vessel-characteristics-and/10.1117/12.2576987.short)  
+      \[2.] [**Is there a relationship between retinal blood vessel characteristics and ametropia?**](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11623/116231Z/Is-there-a-relationship-between-retinal-blood-vessel-characteristics-and/10.1117/12.2576987.short)  
 
       **Arnav Chavan\***, Gowreesh Mago\*, J. Jothi Balaji, Vasudevan Lakshminarayanan  
 
