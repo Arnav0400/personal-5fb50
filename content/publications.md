@@ -7,7 +7,7 @@ sections:
     section_id: lorem-ipsum
     image_alt: lorem-ipsum
     content: >
-      \[6.] **Rescaling CNN through Learnable Repetition of Network Parameters**  
+      \[6.] [**Rescaling CNN through Learnable Repetition of Network Parameters**](https://arxiv.org/abs/2101.05650)  
 
       **Arnav Chavan\***, Udbhav Bamba\*, Rishabh Tiwari\*, Deepak Gupta\*  
 
