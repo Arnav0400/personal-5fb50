@@ -13,7 +13,7 @@ sections:
 
       *IEEE International Conference on Image Processing (ICIP)*
 
-      \[3.] [**Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy**](https://www.sciencedirect.com/science/article/pii/S1361841521000487)  
+      \[5.] [**Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy**](https://www.sciencedirect.com/science/article/pii/S1361841521000487)  
 
       *Medical Image Analysis*
 
