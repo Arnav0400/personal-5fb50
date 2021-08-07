@@ -33,7 +33,7 @@ sections:
       *Medical Image Analysis*
 
 
-      \[2.] **ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations**  
+      \[2.] [**ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations**](https://arxiv.org/abs/2102.07156)  
 
       Rishabh Tiwari\*, Udbhav Bamba\*, **Arnav Chavan**\*, Deepak Gupta\*  
 
