@@ -11,7 +11,7 @@ sections:
 
       **Arnav Chavan***, Udbhav Bamba*, Rishabh Tiwari*, Deepak Gupta*  
 
-      *IEEE International Conference on Image Processing (ICIP)*  
+      IEEE International Conference on Image Processing (ICIP)  
 
 
       \[5.] **A new method for quantification of retinal blood vessel characteristics**  
