@@ -96,8 +96,7 @@ sections:
       #### DECEMBER, 2019
 
 
-      *   Attended Nepal Winter School in AI in Pokhara, Nepal organized by
-      NAAMII, Nepal.
+      *   Attended Nepal Winter School in AI in Pokhara, Nepal organized by NAAMII, Nepal.
 
 
       #### NOVEMBER, 2019
