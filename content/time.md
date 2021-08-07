@@ -10,7 +10,7 @@ sections:
       #### AUGUST, 2021
 
 
-      * F.
+      * Won Amazon ML Challenge-2021.
 
       *   Paper, "Rescaling CNN through Learnable Repetition of Network
       Parameters" accepeted at IEEE International Conference on Image Processing
