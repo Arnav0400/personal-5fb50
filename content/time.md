@@ -51,8 +51,7 @@ sections:
       #### NOVEMBER, 2020
 
 
-      *   Paper, “Is there a relationship between retinal blood vessel
-      characteristics and ametropia?” accepted at Proceedings of SPIE,
+      *   Paper, “Is there a relationship between retinal blood vessel characteristics and ametropia?” accepted at Proceedings of SPIE,
       Ophthalmic Technologies XXXI 2021.
 
       *   Paper,[ “A New Method for Quantification of Retinal Blood Vessel Characteristics”](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/11623/2576984/A-new-method-for-quantification-of-retinal-blood-vessel-characteristics/10.1117/12.2576984.short) accepted at Proceedings of SPIE, Ophthalmic Technologies
