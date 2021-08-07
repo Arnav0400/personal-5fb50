@@ -9,7 +9,7 @@ sections:
     content: >
       \[6.] **Rescaling CNN through Learnable Repetition of Network Parameters**  
 
-      **Arnav Chavan***, Udbhav Bamba, Rishabh Tiwari, Deepak Gupta  
+      **Arnav Chavan***, Udbhav Bamba*, Rishabh Tiwari*, Deepak Gupta*  
 
       *IEEE International Conference on Image Processing (ICIP)*  
 
