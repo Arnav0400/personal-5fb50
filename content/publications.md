@@ -11,7 +11,7 @@ sections:
 
       **Arnav Chavan\***, Udbhav Bamba\*, Rishabh Tiwari\*, Deepak Gupta\*  
 
-      *IEEE International Conference on Image Processing (ICIP)*
+      *IEEE International Conference on Image Processing (ICIP) 2021*
 
 
       \[5.] [**Deep learning for detection and segmentation of artefact and disease instances in gastrointestinal endoscopy**](https://www.sciencedirect.com/science/article/pii/S1361841521000487)  
@@ -45,7 +45,7 @@ sections:
       Suyog Jadhav, Udbhav Bamba, **Arnav Chavan**, Rishabh Tiwari, Aryan Raj  
 
       *EndoCV Workshop, International Symposium on Biomedical Imaging (ISBI) 2020*
-      
+
 
       *=Equal Contribution
     actions: []
