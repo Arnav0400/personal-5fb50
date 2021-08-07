@@ -45,7 +45,7 @@ sections:
       #### JANUARY, 2021
 
 
-      *   Paper, “ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations” accepted at International Conference on Learning Representations (ICLR) 2021.
+      *   Paper, [“ChipNet: Budget-Aware Pruning with Heaviside Continuous Approximations”](https://openreview.net/forum?id=xCxXwTzx4L1) accepted at International Conference on Learning Representations (ICLR) 2021.
 
 
       #### NOVEMBER, 2020
