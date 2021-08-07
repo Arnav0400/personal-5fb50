@@ -12,10 +12,6 @@ sections:
 
       * Won Amazon ML Challenge-2021.
 
-      *   Paper, "Rescaling CNN through Learnable Repetition of Network
-      Parameters" accepeted at IEEE International Conference on Image Processing
-      (ICIP) 2021.
-
 
       #### MAY, 2021
 
