@@ -112,8 +112,7 @@ sections:
       #### OCTOBER, 2019
 
 
-      *   Started Internship at SpectrumAI. Worked on real time monitoring of
-      Livestock through multi Object Tracking with Segmentation based two stage
+      *   Started Internship at SpectrumAI. Worked on real time monitoring of Livestock through multi Object Tracking with Segmentation based two stage
       networks. Further Temporal Connections of masks.
     actions: []
     type: section_content
