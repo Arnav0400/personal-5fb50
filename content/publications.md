@@ -45,6 +45,7 @@ sections:
       Suyog Jadhav, Udbhav Bamba, **Arnav Chavan**, Rishabh Tiwari, Aryan Raj  
 
       *EndoCV Workshop, International Symposium on Biomedical Imaging (ISBI) 2020*
+      
 
       *=Equal Contribution
     actions: []
