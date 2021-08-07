@@ -112,10 +112,8 @@ sections:
 
       *   Became Kaggle Competitions Expert.
 
-
       *   Secured 8th place (Gold) in Severstal: Steel Defect Detection among
       2,431 teams.
-
 
       *   Secured 82nd place (Bronze) in Understanding Clouds from Satellite
       Images among 1,538 teams.
