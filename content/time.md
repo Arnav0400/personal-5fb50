@@ -36,8 +36,7 @@ sections:
       #### FEBRUARY, 2021
 
 
-      *   Started an internship at Udaan, as a data scientist, working with
-      their catalogue team.
+      *   Started an internship at Udaan, as a data scientist, working with their catalogue team.
 
       *   Paper, “Deep learning for detection and segmentation of artefact and
       disease instances in gastrointestinal endoscopy” accepted at Medical Image
