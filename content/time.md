@@ -33,11 +33,9 @@ sections:
       *   Started an internship at Udaan, as a data scientist, working with
       their catalogue team.
 
-
       *   Paper, “Deep learning for detection and segmentation of artefact and
       disease instances in gastrointestinal endoscopy” accepted at Medical Image
       Analysis Journal.
-
 
       *   Secured 6th place among 733 participants in Wind-dependent Variables:
       Predict Wind Speeds of Tropical Storms
@@ -57,7 +55,6 @@ sections:
       *   Paper, “Is there a relationship between retinal blood vessel
       characteristics and ametropia?” accepted at Proceedings of SPIE,
       Ophthalmic Technologies XXXI 2021.
-
 
       *   Paper, “A New Method for Quantification of Retinal Blood Vessel
       Characteristics” accepted at Proceedings of SPIE, Ophthalmic Technologies
