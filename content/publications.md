@@ -24,8 +24,8 @@ sections:
       \[4.] **Is there a relationship between retinal blood vessel characteristics and ametropia?**  
 
       **Arnav Chavan**, Gowreesh Mago, J. Jothi Balaji, Vasudevan Lakshminarayanan  
-      
-      *Ophthalmic Technologies XXXI*  
+
+      *Ophthalmic Technologies XXXI, SPIE*  
 
 
       \[3.] **Deep learning for detection and segmentation of artefact and
