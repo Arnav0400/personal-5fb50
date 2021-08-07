@@ -18,7 +18,7 @@ sections:
       #### MAY, 2021
 
 
-      *   Started Internship at Amazon's Search Science and AI Team as an
+      *   Started Internship at [Amazon's Search Science and AI](https://www.amazon.science/research-areas/search-and-information-retrieval) Team as an
       Applied Scientist.
 
       *   Paper, "Rescaling CNN through Learnable Repetition of Network
