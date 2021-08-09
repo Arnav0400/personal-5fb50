@@ -4,7 +4,7 @@ hide_title: true
 sections:
   - section_id: hero
     type: section_hero
-    title: 'Hi, I''m Arnav Chavan.'
+    title: 'Hi; I''m Arnav Chavan.'
     content: |
       Undergraduate Deep Learning Researcher
   - section_id: about
