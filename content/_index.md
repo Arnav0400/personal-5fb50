@@ -6,7 +6,7 @@ sections:
     type: section_hero
     title: 'Hi; I''m Arnav Chavan.'
     content: |
-      Student Researcher
+      Research Student in Deep Learning
   - section_id: about
     type: section_content
     title: About
