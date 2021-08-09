@@ -40,7 +40,7 @@ params:
         new_window: true
       - label: G
         url: 'https://scholar.google.com/citations?user=s4rghcgAAAAJ&hl=en'
-        style: icon
+        style: link
         icon_class: dev
         new_window: true
       - label: GitHub
