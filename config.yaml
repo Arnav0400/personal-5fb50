@@ -5,7 +5,7 @@ params:
   palette: blue
   header:
     title: ' Arnav Chavan'
-    tagline: Undergraduate Researcher
+    tagline: Deep Learning Research Student
     profile_img: images/diligent-rosemary.jpeg
     profile_img_alt: Author avatar
     background: dark
